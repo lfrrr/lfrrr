@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lfrrr
 - 👀 I’m interested in computer game
-- 🌱 I’m currently learning how to make an app
+- 🌱 I’m currently learning how to make a compiler
 - 📫 837504845@qq.com
 
 <!---
